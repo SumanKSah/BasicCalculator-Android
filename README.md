@@ -5,4 +5,6 @@ You can find the apk file in <u>app/release/BasicCalculator_Final.apk</u>
 
 Here is the Sample Image of it's UI 
 
-<center>![App UI image](UIimage/AndroidNexus_6_API_30.png)</center>
+<p align="center">
+  <img src="UIimage/AndroidNexus_6_API_30.pngg" />
+</p>
